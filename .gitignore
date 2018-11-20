@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DeepLinkingApp/.vs/DeepLinkingApp/v15
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp/bin/Debug/netstandard2.0
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp/obj
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.Android/bin
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.Android/obj
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.Android/DeepLinkingApp.Android.csproj.user
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.iOS/bin
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.iOS/obj
+/DeepLinkingApp/DeepLinkingApp/DeepLinkingApp.iOS/DeepLinkingApp.iOS.csproj.user
+/DeepLinkingApp/.vs/DeepLinkingApp/DesignTimeBuild
